@@ -1,2 +1,2 @@
 # Python-Examples
-This is my examples in python
+Ο παρον φάκελος περιέχει παραδείγματα σε python
